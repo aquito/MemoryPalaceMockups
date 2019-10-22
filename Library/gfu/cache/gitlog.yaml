@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-10-16T17:55:27.906+01:00
+  initializedAtString: 2019-10-16T17:43:13.442+01:00
+  log:
+  - commitID: 902f9df24266cf87d1b7770e0b1c34a24227a2be
+    mergeA: 
+    mergeB: 
+    authorName: aquito
+    authorEmail: aki@gamefutures.com
+    commitEmail: aki@gamefutures.com
+    commitName: aquito
+    summary: initial commit
+    description: 
+    timeString: 2019-10-16T17:52:57.000+01:00
+    commitTimeString: 2019-10-16T17:52:57.000+01:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\vruser02\Documents\MemoryPalaceMockups\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
